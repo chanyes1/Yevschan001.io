@@ -38,14 +38,13 @@ charset=UTF-8">
             computer to make your life easier, to actually building and programming computers. 
                 <href="https://en.wikipedia.org/wiki/Computing">wikipedia</a></p>
 
-        <p>It is also the act of calculating something, see <a
-                href="https://dictionary.cambridge.org/us/dictionary/english/computing">dictionary</a> for further
+        <p>It is also the act of calculating something, see 
+                <a>href="https://dictionary.cambridge.org/us/dictionary/english/computing">dictionary</a> for further
             details you can research it yourself </a></p>
 
-        <a
+        <a>
             href="https://www.google.com/search?q=computing+meaning&rlz=1C1BNSD_enPH1084PH1084&oq=computing+meaning&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIHCAEQABiABDIHCAIQABiABDIMCAMQABgUGIcCGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMjE2MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">
-            search it yourself.</a>
-        </p>
+            search it yourself.</a></p>
 
 
         <h1 id="known-issues" class="collapsible">Computing</h1>
