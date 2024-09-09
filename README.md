@@ -664,9 +664,9 @@ charset=UTF-8">
             <p> &bull; An access point is a device that allows wireless devices to connect to a wired network
                 using Wi-Fi, or related standards.</p>
         </div>
-        <h2 id="v2.39.1" nr="15" class="collapsible"> The Role of Information Technology in <br /><small>the modern
+        <h2 id="v2.39.1" nr="15" class="collapsible"> The Role of Information Technology in <br /><>the modern
                 world
-                2022)</small></h2>
+                2022)</h2>
         <div>
 
             <p>Improved Efficiency and Productivity</p>
@@ -718,9 +718,7 @@ charset=UTF-8">
                 allows them to talk to each other when they need to.</p>
 
         </div>
-        <h2 id="v2.39.0" nr="17" class="collapsible"> Operating System Types<br /><small>since v2.38.1 (October 18th
-                2022)
-        </h2></small>
+        <h2 id="v2.39.0" nr="17" class="collapsible"> Operating System Types</h2>
         <div>
 
             <p>Mobile OS</p>
@@ -807,6 +805,6 @@ charset=UTF-8">
                 }
             })();
         </script>
+    </div>
 </body>
-
 </html>
