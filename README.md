@@ -10,11 +10,11 @@ charset=UTF-8">
 <body class="details">
     <div class="links">
         <ul>
-            <li><a href="https://gitforwindows.org/">about me</a></li>
-            <li><a href="https://github.com/git-for-windows/git/wiki/FAQ">q&a</a></li>
-            <li><a href="https://gitforwindows.org/#contribute">qoutes</a></li>
-            <li><a href="https://gitforwindows.org/#contribute">social</a></li>
-            <li><a href="mailto:git@vger.kernel.org">resume</a></li>
+            <li><a href="https://github.com/chanyes1/Yevschan001.io">about me</a></li>
+            <li><a href="https://github.com/chanyes1/Yevschan001.io">q&a</a></li>
+            <li><a href="https://github.com/chanyes1/Yevschan001.io">qoutes</a></li>
+            <li><a href="https://github.com/chanyes1/Yevschan001.io">social</a></li>
+            <li><a href="https://github.com/chanyes1/Yevschan001.io">resume</a></li>
         </ul>
         <div id="git-for-windows-logo">
             <div id="left-pane"></div>
