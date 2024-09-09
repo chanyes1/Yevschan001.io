@@ -750,8 +750,6 @@ charset=UTF-8">
                 for less complex devices, act as the device's complete operating system, performing all control,
                 monitoring and data manipulation functions</p>
 
-            <p></p>
-
         </div>
         <h2 id="v2.38.1" nr="18" class="collapsible"> Types of Software<br />
         </h2>
