@@ -12,7 +12,7 @@ charset=UTF-8">
         <ul>
             <li><a href="https://github.com/chanyes1/Yevschan001.io">about me</a></li>
             <li><a href="https://github.com/chanyes1/Yevschan001.io">q&a</a></li>
-            <li><a href="https://github.com/chanyes1/Yevschan001.io">qoutes</a></li>
+            <li><a href="https://github.com/chanyes1/Yevschan001.io">github</a></li>
             <li><a href="https://github.com/chanyes1/Yevschan001.io">social</a></li>
             <li><a href="https://github.com/chanyes1/Yevschan001.io">resume</a></li>
         </ul>
