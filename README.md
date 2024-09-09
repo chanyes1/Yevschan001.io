@@ -497,7 +497,7 @@ charset=UTF-8">
 
         </div>
         <h2 id="v2.41.0" nr="11" class="collapsible"> Information Technology<br /><small>I.T.
-        </h2></small>
+        </small></h2>
         <div>
             <p>A set of related fields that encompass computer systems, software, programming languages, and data and
                 information processing, and storage. IT forms part of information and communications technology (ICT).
@@ -582,8 +582,7 @@ charset=UTF-8">
                 load a boot loader or an operating system from a mass storage device.</p>
 
         </div>
-        <h2 id="v2.40.0" nr="13" class="collapsible"> Input, Output, and Storage<br /><small>peripherals
-        </h2></small>
+        <h2 id="v2.40.0" nr="13" class="collapsible"> Input, Output, and Storage</h2>
         <div>
 
             <p>A peripheral device is an additional piece of hardware that a computer uses to communicate information
