@@ -133,7 +133,7 @@ charset=UTF-8">
 
         </div>
         <h2 id="v2.43.0" nr="6" class="collapsible"> Generations of Computers
-        </h2></small>
+        </h2>
         <div>
 
             <p>
@@ -187,7 +187,7 @@ charset=UTF-8">
 
 
         </div>
-        <h2 id="v2.42.0(2)" nr="7" class="collapsible"> History of Computers<br /><small> (shortened)</h2></small>
+        <h2 id="v2.42.0(2)" nr="7" class="collapsible"> History of Computers<br /></h2>
         <div>
 
             <p>
