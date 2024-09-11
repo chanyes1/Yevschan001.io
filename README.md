@@ -667,7 +667,7 @@ charset=UTF-8">
         </div>
         <h2 id="v2.39.1" nr="15" class="collapsible"> The Role of Information Technology in <br />the modern
                 world
-                2022)</h2>
+            </h2>
         <div>
 
             <p>Improved Efficiency and Productivity</p>
